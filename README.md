@@ -1,1 +1,1 @@
-Study SQL
+Study SQL!
